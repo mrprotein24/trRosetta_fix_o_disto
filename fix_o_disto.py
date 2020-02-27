@@ -1,3 +1,5 @@
+__author__ = "Ratul Chowdhury, Harvard Medical School"
+
 import sys,os
 import numpy as np
 
