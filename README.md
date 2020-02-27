@@ -12,8 +12,8 @@ You will obtain the final corrected_dis_1.npz
 
 ## Subsequently
 You can run the trRosetta.py located at https://yanglab.nankai.edu.cn/trRosetta/download/ with the corrected_dis_1.npz, and the fasta file of your sequence to get the PDB
-** Note: You will need PyRosetta4 for that
-For queries: email ratul_chowdhury@hms.harvard.edu
+#** Note: You will need PyRosetta4 for that
+#For queries: email ratul_chowdhury@hms.harvard.edu
 
 _____________
 
