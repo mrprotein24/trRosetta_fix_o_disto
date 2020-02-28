@@ -6,6 +6,7 @@ python ./network/predict.py -m ./model2019_07 example/xyz.a3m example/dis_1.npz
 
 ## Usage of fix_o_disto.py
 *First put this code, the .a3m alignment file, and the dis_1.npz 
+
 python fix_o_disto.py
 
 You will obtain the final corrected_dis_1.npz 
